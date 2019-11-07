@@ -1,0 +1,81 @@
+.bold{
+    font-weight: bold;
+}
+.textItalic{
+    font-style: italic;
+}
+.red{
+    color: red;
+}
+.seagreen{
+    color: seagreen;
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.color{
+    background-color: steelblue;
+}
+#image{
+    background-image: url(../img/imagefleur.jpg);
+    height:100vh;  
+}
+#margin{
+    margin: 10px;
+}
+#rectangle{
+    height: 20px;
+    width: 80%;
+    background-color: green ;
+    float: left;
+}
+#rectangle1{
+    height: 20px;
+    width: 20%;
+    background-color: blue ;
+    float: left;
+}
+#rectangle2{
+    height: 60px;
+    width: 30%;
+    background-color: red ;
+    float: left;
+}
+#rectangle3{
+    height: 30px;
+    width: 35%;
+    background-color: orangered;
+    float: left;
+}
+#rectangle4{
+    height: 30px;
+    width: 35%;
+    background-color: gray ;
+    float: left;
+}
+#rectangle5{
+    height: 30px ;
+    width: 23.33% ;
+    background-color: yellow ;
+    float: left;
+}
+#rectangle6{
+    height: 30px;
+    width: 23.33%;
+    background-color: teal;
+    float: left;
+}
+#rectangle7{
+    height: 30px;
+    width: 23.33%;
+    background-color: darkorange ;
+    float: left;
+}
+#rectangle8{
+    height: 100px ;
+    width: 100%;
+    background-color:midnightblue ;
+    float: left;
+}
+
+
